@@ -10,3 +10,5 @@
 TechEnthusiast1TechEnthusiast/TechEnthusiast1TechEnthusiast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+4.[Lab-05](https://github.com/TechEnthusiast1TechEnthusiast/TechEnthusiast1TechEnthusiast/blob/main/A5.ipynb)
+
