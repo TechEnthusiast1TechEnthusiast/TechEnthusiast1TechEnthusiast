@@ -9,3 +9,7 @@
 5.[Lab-05](https://github.com/TechEnthusiast1TechEnthusiast/TechEnthusiast1TechEnthusiast/blob/main/A5.ipynb)
 
 6.[Lab-06](https://github.com/TechEnthusiast1TechEnthusiast/TechEnthusiast1TechEnthusiast/blob/main/A6.ipynb)
+
+7.[Lab-07](A7.ipynb)
+
+8.[Lab-08](A8.ipynb)
